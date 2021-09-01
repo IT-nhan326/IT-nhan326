@@ -8,7 +8,7 @@
 
 - 💞️ My short-term goal is to learn more about frontend development, become a well organize and clean-code developer. 
 
-- 👯 Iam currently looking for any Frontend Developer intern position available. I am believes that working under pressure with many large scale Projects is the best way to improve myself.
+- 👯 I am currently looking for any Frontend Developer intern position available. I believe that working under pressure with many large scale Projects is the best way to improve myself.
 
 
 ###  How to reach me: 
