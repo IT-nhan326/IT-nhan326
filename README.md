@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Nhan Phan
+- 👋 Hi, I’m Nhan Phan. Iam a final-year Computer Science student of Vietnamese-German University. 
+
 - 👀 I’m interested in Web Development, Game Development
+- 
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on many large scale Project to improve my personal skills.
+- 
+- 💞️ My short-term goal is to lear more on the frontend development, become a well organize and a clean-code developer. Iam currently looking for any Frontend Developer intern position available. Iam believe that working under pressure with many large scale Projects is the best way to improve myself.
+- 
 - 📫 How to reach me: nhan.plt2603@gmail.com
+
+
 
 <!---
 IT-nhan326/IT-nhan326 is a ✨ special ✨ 
