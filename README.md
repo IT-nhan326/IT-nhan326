@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: nhan.plt2603@gmail.com
 
-
+[<img align="left" alt="it_nhan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!---
 IT-nhan326/IT-nhan326 is a ✨ special ✨ 
