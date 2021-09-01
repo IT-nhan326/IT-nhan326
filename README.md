@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Development, Game Development
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 - 💞️ My short-term goal is to learn more about frontend development, become a well organize and clean-code developer. 
 
