@@ -11,7 +11,7 @@
 
 ###  How to reach me: 
 
-<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />newgate.p@itcgroup.io
+<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />nhan.plt2603@gmail.com
 
 <img align="left" alt="it_nhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/nhan-phan-le-3419b81a2/
 
