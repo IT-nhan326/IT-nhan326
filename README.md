@@ -1,6 +1,6 @@
-# 👋 Hi, My name is Nhan Phan. 
+# 👋 Hi, Newgate Phan is hereeee !!!
 
-- 🎓 I am a final-year Computer Science student of Vietnamese-German University. 
+- 🎓 I am an Intern Developer of [ITC-Group](www.itcgroup.io)  
 
 - 👀 Interested dev topics atm: Web Development, Game Development.
 
@@ -8,12 +8,10 @@
 
 - 💞️ My short-term goal is to learn more about frontend development, become a well organize and clean-code developer. 
 
-- 👯 I am currently looking for any Frontend Developer intern position available. I believe that working under pressure with many large scale Projects is the best way to improve myself.
-
 
 ###  How to reach me: 
 
-<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />nhan.plt2603@gmail.com
+<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />newgate.p@itcgroup.io
 
 <img align="left" alt="it_nhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/nhan-phan-le-3419b81a2/
 
