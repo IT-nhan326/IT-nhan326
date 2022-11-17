@@ -1,6 +1,6 @@
 # 👋 Hi, Newgate Phan is hereeee !!!
 
-- 🎓 I am an Software Engineer of [ITC-Group](www.itcgroup.io)  
+- 🎓 I am an Software Engineer.
 
 - 👀 Interested dev topics atm: Web Development, Game Development.
 
